@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Menu.unity
+    guid: a3b0b425b74fc264a8a21d5997eb7edf
+  - enabled: 1
+    path: Assets/controles.unity
+    guid: 1b35104ab171e0c4aac04df021ae0809
+  - enabled: 1
+    path: Assets/controle saut.unity
+    guid: 2154d71bd2fbce74694adef0339cfa11
+  - enabled: 1
+    path: Assets/level01.unity
+    guid: 215462ff61dd2fe489aadf36481d2309
+  - enabled: 1
+    path: Assets/level02.unity
+    guid: cfeb1a2b46f68b9438a1a9f5ce3b5294
+  - enabled: 1
+    path: Assets/level03.unity
+    guid: edcae0ef84eab9c4086acba6beb2f613
+  - enabled: 1
+    path: Assets/level04.unity
+    guid: 449442c5c789e8e468e2a5fdacf0f793
+  - enabled: 1
+    path: Assets/avertissement obstacles.unity
+    guid: 6b658fbee434077449055333e5159fa9
+  - enabled: 1
+    path: Assets/level05.unity
+    guid: 116f1240fc941d446977e374275bfc90
+  - enabled: 1
+    path: Assets/Credits.unity
+    guid: 318d52f8816d1cd43910a668cf89fecc
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
